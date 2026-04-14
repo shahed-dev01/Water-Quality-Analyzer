@@ -1,6 +1,7 @@
 # 💧 Water Quality Analyzer
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([Insert your Streamlit App URL here])
+[Water Quality Analyzer
+](https://water-quality-analy.streamlit.app/)
 
 ## Overview
 The Water Quality Analyzer is a Machine Learning web application designed to predict the potability of drinking water. By analyzing 9 distinct chemical and physical metrics, the model determines whether a water source is safe for human consumption.
